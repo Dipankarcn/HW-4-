@@ -1,0 +1,63 @@
+.parents{  
+ margin: auto;
+ width: fit-content;
+}
+.card{
+    width: 120px;
+    background-color: aqua ;
+    text-align: center;
+    padding: 10px;   
+    margin: 20px auto;
+    display: inline-block;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+  .card2{
+    width: 250px;
+    background-color:white ;
+    text-align: center;
+    padding: 10px;  
+    margin: 20px auto;
+    display: inline-block;
+    border-radius: 10px;
+    border: 1px solid black; 
+ 
+}
+.p{
+    border-radius: 0 50px 50px 0;
+    background-color: aquamarine;
+    text-align: left;
+    width: 120px;
+    text-size-adjust: 14px;
+}
+.parents2{
+    margin: auto;
+ width: fit-content;
+}
+.payment{
+    text-align: left;
+    color: red;
+}     
+  .card3{
+    width: 300px;
+    background-color:yellowgreen ;
+    text-align: center;
+    padding: 20px;  
+    margin: 20px auto;
+    display: inline-block;
+    border-radius: 10px;
+    border: 1px solid black; 
+  }
+  .parents3{
+    margin: auto;
+    width: fit-content;
+  }
+  a{
+    color: black;
+  text-decoration: none;
+    text-align: left;
+  }
+  a:hover{
+    color: red;
+  }
+
